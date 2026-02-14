@@ -1,5 +1,25 @@
 Mês previsto,var_target,Fator_Influenciador
-02~mes,kt,chuvas - Mês: 02~mes - Local: RS
+01~mes,kt,
+01~mes,oc,chuvas - Mês: 05~mes - Local: TO
+02~mes,kt,ANO - Evolução no tempo
 02~mes,oc,ANO - Evolução no tempo
+03~mes,kt,spot - Mês: 10~mes:  Urea
+03~mes,oc,chuvas - Mês: 09~mes - Local: PR
+04~mes,kt,
+04~mes,oc,chuvas - Mês: 11~mes - Local: TO
+05~mes,kt,chuvas - Mês: 11~mes - Local: MT
+05~mes,oc,chuvas - Mês: 02~mes - Local: MG
+06~mes,kt,
+06~mes,oc,chuvas - Mês: 09~mes - Local: MA
+07~mes,kt,chuvas - Mês: 07~mes - Local: MG
+07~mes,oc,chuvas - Mês: 06~mes - Local: RS
 08~mes,kt,ANO - Evolução no tempo
-08~mes,oc,
+08~mes,oc,chuvas - Mês: 09~mes - Local: TO
+09~mes,kt,ANO - Evolução no tempo
+09~mes,oc,chuvas - Mês: 11~mes - Local: TO
+10~mes,kt,ANO - Evolução no tempo
+10~mes,oc,chuvas - Mês: 06~mes - Local: PA
+11~mes,kt,ANO - Evolução no tempo
+11~mes,oc,
+12~mes,kt,chuvas - Mês: 07~mes - Local: BA
+12~mes,oc,chuvas - Mês: 04~mes - Local: PA
