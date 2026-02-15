@@ -18,7 +18,7 @@
 ---
 
 > ⚠ **Importante:**  
-> Ao final desta página encontra-se a **variável que mais influenciou cada previsão mensal segundo o modelo de Machine Learning**.  
+> Ao final desta página encontra-se tabela com a **variável que mais influenciou cada previsão mensal segundo o modelo de Machine Learning**.  
 > Recomendamos fortemente a leitura dessa seção para ampliar a interpretação dos resultados.  
 
 ---
