@@ -9,7 +9,7 @@
 
 ---
 
-# 📌 Índice da Página
+## Índice da Página
 
 1. [Análise ao longo do ano](#análise-ao-longo-do-ano)  
 2. [Análise mês a mês](#análise-mês-a-mês)  
@@ -18,8 +18,8 @@
 ---
 
 > ⚠ **Importante:**  
-> Ao final desta página encontra-se a **tabela com a importância dos fatores utilizados pelo modelo de Machine Learning**, indicando quais variáveis mais influenciam as previsões.  
-> Recomendamos fortemente a leitura dessa seção para correta interpretação dos resultados.
+> Ao final desta página encontra-se a **variável que mais influenciou cada previsão mensal segundo o modelo de Machine Learning**.  
+> Recomendamos fortemente a leitura dessa seção para ampliar a interpretação dos resultados.  
 
 ---
 
