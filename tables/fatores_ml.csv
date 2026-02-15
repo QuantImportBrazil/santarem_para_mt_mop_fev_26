@@ -1,15 +1,15 @@
 Mês previsto,var_target,Fator influenciador
-01,kt,Mês:01- Porto:PR para MS - Adubos azotados - variação acumlulado ano
+01,kt,Mês:01- Porto:PR para MS - Adubos nitrogenados - variação acumlulado ano
 01,oc,chuvas-Mês: 05 - Local: TO
 02,kt,ANO - Evolução no tempo
 02,oc,ANO - Evolução no tempo
 03,kt,spot - Mês: 10~mes:  Urea
 03,oc,chuvas-Mês: 09 - Local: PR
-04,kt,"Mês:04- Porto:SP para MT - Insecticidas, rodenticidas, fungicidas, herbicidas, inibidores de germinação e reguladores de crescimento para plantas, desinfectantes e produtos semelhantes, apresentados em formas ou embalagens para venda a retalho ou como preparações ou ainda sob a for - acumulado ano"
+04,kt,"Mês:04- Porto:SP para MT - Inseti, herbi, fungicida - acumulado ano"
 04,oc,chuvas-Mês: 11 - Local: TO
 05,kt,chuvas-Mês: 11 - Local: MT
 05,oc,chuvas-Mês: 02 - Local: MG
-06,kt,"Mês:06- Porto:SP para GO - Soja, mesmo triturada - peso ano anterior"
+06,kt,Mês:06- Porto:SP para GO - Soja - peso ano anterior
 06,oc,chuvas-Mês: 09 - Local: MA
 07,kt,chuvas-Mês: 07 - Local: MG
 07,oc,chuvas-Mês: 06 - Local: RS
@@ -20,6 +20,6 @@ Mês previsto,var_target,Fator influenciador
 10,kt,ANO - Evolução no tempo
 10,oc,chuvas-Mês: 06 - Local: PA
 11,kt,ANO - Evolução no tempo
-11,oc,"Mês:11- Porto:SP para MG - Algodão, não cardado nem penteado - ocorrência"
+11,oc,Mês:11- Porto:SP para MG - Algodão - ocorrência
 12,kt,chuvas-Mês: 07 - Local: BA
 12,oc,chuvas-Mês: 04 - Local: PA
