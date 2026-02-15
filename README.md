@@ -5,7 +5,21 @@
 
 ---
 
-> **Emissão:** 2-2026
+> **Emissão:** 2-2026  
+
+---
+
+# 📌 Índice da Página
+
+1. [Análise ao longo do ano](#análise-ao-longo-do-ano)  
+2. [Análise mês a mês](#análise-mês-a-mês)  
+3. [⚠ Principais fatores explicativos (ML)](#principais-fatores-ml)  
+
+---
+
+> ⚠ **Importante:**  
+> Ao final desta página encontra-se a **tabela com a importância dos fatores utilizados pelo modelo de Machine Learning**, indicando quais variáveis mais influenciam as previsões.  
+> Recomendamos fortemente a leitura dessa seção para correta interpretação dos resultados.
 
 ---
 
@@ -13,7 +27,7 @@
 ![](images/overview.png)  
 
 * O tamanho da marca "x verde" é proporcional à probabilidade da instância ocorrer.  
-* Os testes foram feitos sobre os últimos 15 anos.
+* Os testes foram realizados sobre o histórico disponível, podendo alcançar até 15 anos de dados, conforme a série considerada.  
 
 ---
 
@@ -35,6 +49,9 @@
 ---  
 
 ## Principais fatores (ML)  
+
+> 📊 **Seção fundamental para entender o modelo.**  
+> A tabela abaixo apresenta a importância relativa das variáveis no algoritmo de Machine Learning.
 
 ![](tables/fatores_ml.png)  
 
